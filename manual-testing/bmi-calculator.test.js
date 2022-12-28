@@ -1,4 +1,4 @@
-const CalculateBMI_metric = require ('./bmi-calculator.js');
+const CalculateBMI_metric = require ('../bmi-calculator.js');
 //const bmi_analyze = require ('./bmi-calculator.js');
 
 
