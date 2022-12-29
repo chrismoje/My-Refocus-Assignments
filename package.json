@@ -1,0 +1,23 @@
+{
+  "name": "my_refocus_assignment",
+  "version": "1.0.0",
+  "description": "About the Author of this Website:",
+  "main": "bmi-calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismoje/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismoje/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/chrismoje/My-Refocus-Assignments#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
